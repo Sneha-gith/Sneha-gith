@@ -1,0 +1,6 @@
+- 👋 Hi, I’m Sneha Dubey
+- 👀 I’m interested in web development.
+- 🌱 I’m currently learning react js and bootstrap for making advanced web projects.
+- 📫 Reach me with: sd2524@.git@gmail.com
+- ⚡ Fun fact: I love coding and cats!😄
+- Thank you...
